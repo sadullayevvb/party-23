@@ -5,6 +5,11 @@
     list-style: none;
     text-decoration: none;
 }
+body{
+    overflow-x: hidden;
+    max-width: 1440px;
+    margin: 0 auto;
+}
 
 nav {
     display: flex;

@@ -1,0 +1,116 @@
+@media screen and (max-width:769px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  .container {
+    max-width: 769px;
+  }
+
+  .text-box {
+    font-size: 29px;
+  }
+
+  .right-main {
+    width: 280px;
+    display: inline-block;
+  }
+
+  .btn {
+    padding: 10px 15px;
+    font-size: 14.8px;
+  }
+
+  .box {
+    width: 120px;
+    font-size: 13px;
+  }
+
+  .guest_wrapper {
+    max-width: 430px;
+    display: flex;
+    gap: 50px;
+  }
+
+  .guest_btn {
+    color: #fff;
+    font-size: 12px;
+    border-radius: 50px;
+    background: linear-gradient(0deg, #F00 0%, #F00 100%), #EA449A;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.20);
+    display: inline-flex;
+    padding: 10px 30px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .feature_wrapper {
+    max-width: 690px;
+    text-align: center;
+    display: flex;
+
+  }
+
+  .feature_child {
+    margin: 0 auto;
+    width: 340px;
+    margin-top: 20px;
+  }
+
+  .red_pric {
+    margin-top: 50px;
+  }
+
+  .linner_bg_wrapper {
+    margin-top: 30px;
+    display: none;
+    justify-content: space-between;
+    text-align: center;
+
+  }
+
+  .text_wrapper {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .pricing_texts {
+    margin: 0 auto;
+  }
+
+  .pricing_title {
+    font-style: 28px;
+  }
+
+  .host_wrapper {
+    display: flex;
+  }
+  .host_img{
+    width: 300px;
+  }
+  .host_third_child {
+    margin-top: 30px;
+  }
+
+  .missy_wrapper {
+    display: flex;
+  }
+  .gf_img{
+    width: 300px;
+  }
+  .gf_title{
+    margin-top: 50px;
+  }
+  .client_child{
+    width: 200px;
+  }
+
+  .footer {
+    padding: 40px 30px;
+  }
+
+  .footer_wrapper {
+    gap: 30px;
+    display: flex;
+  }
+}
